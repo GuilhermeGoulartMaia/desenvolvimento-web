@@ -1,0 +1,23 @@
+1) python:
+referência: https://docs.python.org/pt-br/3/reference/index.html
+relação:Python serve para deixar o desenvolvimento de soluções digitais mais práticas, automatizadas, organizadas e dinâmicas.
+
+2) git:
+referência: https://git-scm.com/book/pt-br/v2/Funcionamento-Interno-do-Git-Refer%C3%AAncias-do-Git 
+relação: o git permite controlar o histórico de alterações de arquivos e principalmente de projetos de desenvolvimento de software.
+
+3) vscode:
+referência: https://learn.microsoft.com/pt-br/visualstudio/ide/finding-references?view=vs-2022
+relação: plataforma para editar e desenvolver os códigos.
+
+4) sqlitebrowser:
+referência: http://www.univasf.edu.br/~brauliro.leal/download/ComoUsarSQLite.pdf
+relação: biblioteca que gerencia os dados direto do seu sistema de arquivos.
+
+
+5) navegadores:
+referência: https://www.techtudo.com.br/listas/2018/12/cinco-geradores-de-referencias-para-formatacao-na-abnt.ghtml
+relação: plataformas que permitem pesquisar e executar o material trabalhado em aula. 
+
+
+
